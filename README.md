@@ -8,7 +8,7 @@ Výberový seminár, FIIT STU, 2026
 
 ## About
 
-This repository contains the proof of concept for our paper and also our paper. We compare three post-hoc
+This repository contains our paper and its the proof of concept. We compare three post-hoc
 calibration methods (temperature scaling, beta calibration and isotonic regression) applied to
 three machine learning models (logistic regression, random forest and XGBoost) that predict
 whether a patient will develop mild cognitive impairment (MCI) within four years.
@@ -18,13 +18,14 @@ reliability diagrams and AUC.
 
 ## Files
 
-- "IvanaKralovicsova_Zadanie3_PoC" – code with comments and results
-- "IvanaKralovicsova_Zadanie3_VedeckyClanok" - the paper
+- "IvanaKralovicsova_Zadanie3_PoC.ipynb" – code with comments and results
+- "IvanaKralovicsova_Zadanie3_VedeckyClanok.pdf" - the paper
 - "reliability diagram *.png" – reliability diagrams for each model
 
 ## Data
 
 We used data from the NACC (National Alzheimer's Coordinating Center) database (https://naccdata.org).
+The data are not included in this repository, because they cannot be shared publicly.
 
 The notebook expects the files "train.csv" and "test.csv" in the same folder.
 
