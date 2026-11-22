@@ -18,7 +18,7 @@ reliability diagrams and AUC.
 
 ## Files
 
-- "IvanaKralovicsova_Zadanie3_PoC.ipynb" – code with comments and results
+- "PoC_calibration_nc-to-mci.ipynb" – code with comments and results
 - "reliability diagram *.png" – reliability diagrams for each model
 
 ## Data
