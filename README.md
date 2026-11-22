@@ -20,7 +20,7 @@ reliability diagrams and AUC.
 
 - "IvanaKralovicsova_Zadanie3_PoC" – code with comments and results
 - "IvanaKralovicsova_Zadanie3_VedeckyClanok" - the paper
-- "reliability_diagram *.png" – reliability diagrams for each model
+- "reliability diagram *.png" – reliability diagrams for each model
 
 ## Data
 
